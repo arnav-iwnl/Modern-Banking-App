@@ -1,5 +1,5 @@
 # React + Vite
-# TO Run App
+# To Run App
 `npm run dev `
 
 
